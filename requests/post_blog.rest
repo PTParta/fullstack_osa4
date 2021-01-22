@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title":"ruokablogi 2",
+    "author":"Erika",
+    "url": "www.food.com",
+    "likes" :"220"
+}
