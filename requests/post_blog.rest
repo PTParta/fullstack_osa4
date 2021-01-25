@@ -2,8 +2,8 @@ POST http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-    "title":"ruokablogi 3",
-    "author":"Hanna",
-    "url": "www.fodlovers.com",
-    "likes" :"20"
+    "title":"ccc",
+    "author":"reetta",
+    "url": "ccc.com",
+    "likes" :""
 }
