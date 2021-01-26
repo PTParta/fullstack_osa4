@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/600eaa5eff4f6c2366107583
+Content-Type: application/json
+
+{
+    "title":"ccc",
+    "author":"reetta",
+    "url": "ccc.com",
+    "likes" :"551"
+}
