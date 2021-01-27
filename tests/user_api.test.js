@@ -30,3 +30,7 @@ describe('user creation tests', () => {
     expect(usersAtEnd).toHaveLength(helper.initialUsers.length)
   })
 })
+
+afterAll(() => {
+  mongoose.connection.close()
+})

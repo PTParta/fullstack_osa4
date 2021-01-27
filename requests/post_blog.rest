@@ -2,8 +2,9 @@ POST http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-    "title":"ccc",
-    "author":"reetta",
-    "url": "ccc.com",
-    "likes" :""
+    "title":"testi3",
+    "author":"ggggg",
+    "url": "ggggg.com",
+    "likes": "1",
+    "userId": "60100b2873afff37264f3663"
 }
