@@ -1,0 +1,11 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxMCIsImlkIjoiNjAxMTAyZGNhNTdlZDQzNTFjMTI5NmY5IiwiaWF0IjoxNjExNzI3NjAzfQ.mYC976WVj3cZtwdKKyZrOutSpfk8hed6E0KGhNEL4QE
+
+{
+    "title":"testi11111111110 loginnattuna",
+    "author":"logilogin4444444444",
+    "url": "login.com",
+    "likes": "5",
+    "userId": "60100b2873afff37264f3663"
+}
